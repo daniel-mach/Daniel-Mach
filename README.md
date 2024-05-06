@@ -1,16 +1,16 @@
-Hiya, my name's Daniel and I'm happy to meet ya :wave:
+Hiya, my name's Daniel and I'm happy to meet you! :wave:
 -------------------------------------------------------
 <br>
 
-I am a <strong>front-end engineer with two years of commercial experience developing e-commerce platforms primarily with React and TypeScript</strong>. I have successfully pivoted my career after seven years in global technical recruitment and today I get to say I genuinely love working as a developer, I am passionate about writing clean, efficient code and I am driven to create user-friendly and aesthetically pleasing web applications that bring value.
+I am a <strong>front-end engineer with two years of commercial experience developing e-commerce platforms primarily with React and TypeScript</strong>. After seven years in global technical recruitment, I successfully pivoted my career, and today I can genuinely say I love working as a developer. I'm passionate about writing clean, efficient code and driven to create user-friendly, aesthetically pleasing web applications that deliver value.
 
 <br>
 
-* 🔭 <strong>I am currently looking for a new full-time front-end position!</strong>
-* 🌍 I am based in Gdańsk, Poland.
-* 📃 Here, feel free to have a look at my [resume](https://silver-christi-22.tiiny.site/).
-* 🧠 I am currently learning Next.js while developing a property rental exercise project.
-* 🎮 Outside of web development, I am learning the [Godot](https://godotengine.org/) game engine and working to create my own video game.
+* 🔭 <strong>I am currently seeking a new full-time front-end position!</strong>
+* 🌍 Based in Gdańsk, Poland.
+* 📃 Feel free to have a look at my [resume](https://silver-christi-22.tiiny.site/).
+* 🧠 Currently learning Next.js while developing a property rental exercise project.
+* 🎮 Outside of web development, I am exploring the [Godot](https://godotengine.org/) game engine and working on creating my first video game.
 * 🐲 Personally, a nerd most often found running Dungeons and Dragons games.
 
 ### Skills
