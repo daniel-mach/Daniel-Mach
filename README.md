@@ -11,7 +11,7 @@ I am a <strong>front-end engineer with two years of commercial experience develo
 * 📃 Here, feel free to have a look at my [resume](https://silver-christi-22.tiiny.site/).
 * 🧠 I am currently learning Next.js while developing a property rental exercise project.
 * 🎮 Outside of web development, I am learning the [Godot](https://godotengine.org/) game engine and working to create my own video game.
-* 🐲 Personally, a nerd most often found running Dungeon & Dragons games!
+* 🐲 Personally, a nerd most often found running Dungeons and Dragons games!
 
 <br>
 
