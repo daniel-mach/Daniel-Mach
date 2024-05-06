@@ -1,7 +1,7 @@
 Hiya, my name's Daniel and I'm happy to meet ya :wave:
 -------------------------------------------------------
 
-I am a <strong>front-end engineer with two years of commercial experience developing e-commerce platforms primarily with React and TypeScript</strong>. I have successfully pivoted my career after seven years in global technical recruitment which left me with a strong skillset in business communication and relationship management. Today I get to say I genuinely love working as a developer and I am passionate about writing clean, efficient code and creating user-friendly and aesthetically pleasing web applications.
+I am a <strong>front-end engineer with two years of commercial experience developing e-commerce platforms primarily with React and TypeScript</strong>. I have successfully pivoted my career after seven years in global technical recruitment which equipped me with a strong business communication and relationship management skillset to compliment the more recent technical toolkit. Today I get to say I genuinely love working as a developer and I am passionate about writing clean, efficient code and creating user-friendly and aesthetically pleasing web applications.
 
 * 🔭 <strong>I am currently looking for a new full-time position!</strong>
 * 🌍 I am based in Gdańsk, Poland.
