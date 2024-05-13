@@ -1,4 +1,4 @@
-Hiya, my name's Daniel and I'm happy to meet you! :wave:
+Hey, my name's Daniel and I'm happy to meet you! :wave:
 -------------------------------------------------------
 <br>
 
