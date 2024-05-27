@@ -15,7 +15,7 @@ Hey,  I am Daniel - welcome to my GitHub! :wave:
 
 <br> 
 
-Feel free to take a look at my [resume](https://github.com/daniel-mach/daniel-mach/blob/3c71d7c99ed18cbe6d54a37e40f364578a927629/DANIEL-MACH_CV.pdf) and get in touch if you would like to talk job opportunities or collaborate on a project. 
+Feel free to take a look at my [resume](https://github.com/daniel-mach/daniel-mach/blob/main/DANIEL-MACH_FRONTEND_CV.pdf) and get in touch if you would like to talk job opportunities or collaborate on a project. 
 
 <br> 
 
