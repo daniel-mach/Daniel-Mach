@@ -2,7 +2,7 @@ Hey,  I am Daniel and welcome to my GitHub! :wave:
 -------------------------------------------------------
 
 <p align="justify">
-  I am a <strong>front-end engineer with two years of commercial experience developing e-commerce platforms, primarily using React and TypeScript</strong>. After seven years in global technical recruitment, I have successfully pivoted my career and now genuinely enjoy my newfound path as a web developer. I am passionate about writing clean, efficient code and driven    to create accessible, user-friendly and visually engaging web applications that <strong>deliver value</strong>.
+  I am a <strong>Front-end Engineer with two years of commercial experience developing e-commerce platforms, primarily using React and TypeScript</strong>. After seven years in global technical recruitment, I have successfully pivoted my career and now genuinely enjoy my newfound path as a web developer. I am passionate about writing clean, efficient code and driven    to create accessible, user-friendly and visually engaging web applications that <strong>deliver value</strong>.
 </p>
 
 <br> 
