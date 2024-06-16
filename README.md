@@ -1,4 +1,4 @@
-Hey,  I am Daniel and welcome to my GitHub! :wave:
+Hey,  I am Daniel - welcome to my GitHub! :wave:
 -------------------------------------------------------
 
 <p align="justify">
