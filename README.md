@@ -7,11 +7,13 @@ Hey,  I am Daniel - welcome to my GitHub! :wave:
 
 <br> 
 
-<li>👀 <strong>I am currently looking for a new full-time front-end position!</strong></li>
-<li>🌍 Based in Gdańsk, Poland.</li>
-<li>🧠 Currently learning <strong>Next.js</strong> while working on personal projects.</li>
-<li>🎮 Outside of web development, I am exploring the <strong>Godot</strong> game engine and working on creating my first video game.</li>
-<li>🎲 In my spare time I am most often found running Dungeons and Dragons campaigns.</li>
+<ul>
+  <li>👀 <strong>I am currently looking for a new full-time front-end position!</strong></li>
+  <li>🌍 Based in Gdańsk, Poland.</li>
+  <li>🧠 Currently learning <strong>Next.js</strong> while working on personal projects.</li>
+  <li>🎮 Outside of web development, I am exploring the <strong>Godot</strong> game engine and working on creating my first video game.</li>
+  <li>🎲 In my spare time I am most often found running Dungeons and Dragons campaigns.</li>
+</ul>
 
 <br> 
 
