@@ -7,19 +7,15 @@ Hey,  I am Daniel - welcome to my GitHub! :wave:
 
 <br> 
 
-<ul>
-  <li>👀 <strong>I am currently looking for a new full-time front-end position!</strong></li>
-  <li>🌍 Based in Gdańsk, Poland.</li>
-  <li>🧠 Currently learning <strong>Next.js</strong> while working on personal projects.</li>
-  <li>🎮 Outside of web development, I am exploring the <strong>Godot</strong> game engine and working on creating my first video game.</li>
-  <li>🎲 In my spare time I am most often found running Dungeons and Dragons campaigns.</li>
-</ul>
+<li>👀 <strong>I am currently looking for a new full-time front-end position!</strong></li>
+<li>🌍 Based in Gdańsk, Poland.</li>
+<li>🧠 Currently learning <strong>Next.js</strong> while working on personal projects.</li>
+<li>🎮 Outside of web development, I am exploring the <strong>Godot</strong> game engine and working on creating my first video game.</li>
+<li>🎲 In my spare time I am most often found running Dungeons and Dragons campaigns.</li>
 
 <br> 
 
-<p>
-  Feel free to reach out if you would like to talk job opportunities or collaborate on a project! 
-</p>
+Feel free to [reach out](mailto:mach.daniel@proton.me]) if you would like to talk job opportunities or collaborate on a project! 
 
 <br> 
 
