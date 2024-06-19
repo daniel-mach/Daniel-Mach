@@ -2,20 +2,24 @@ Hey,  I am Daniel - welcome to my GitHub! :wave:
 -------------------------------------------------------
 
 <p align="justify">
-  I am a <strong>Front-end Engineer with two years of commercial experience developing e-commerce platforms, primarily using React and TypeScript</strong>. After seven years in global technical recruitment, I have successfully pivoted my career and now genuinely enjoy my newfound path as a web developer. I am passionate about writing clean, efficient code and driven    to create accessible, user-friendly and visually engaging web applications that <strong>deliver value</strong>.
+  I am a <strong>Front-end Engineer with 2 years of commercial experience developing e-commerce platforms, primarily using React and TypeScript</strong>. After seven years in global technical recruitment, I have successfully pivoted my career and now genuinely enjoy my newfound path as a web developer. I am passionate about writing clean, efficient code and driven    to create accessible, user-friendly and visually engaging web applications that <strong>deliver value</strong>.
 </p>
 
 <br> 
 
-* 👀 <strong>I am currently looking for a new full-time front-end position!</strong>
-* 🌍 Based in Gdańsk, Poland.
-* 🧠 Currently learning Next.js.
-* 🎮 Outside of web development, I am exploring the [Godot](https://godotengine.org/) game engine and working on creating my first video game.
-* 🎲 In my spare time I am most often found running Dungeons and Dragons campaigns.
+<ul>
+  <li>👀 <strong>I am currently looking for a new full-time front-end position!</strong></li>
+  <li>🌍 Based in Gdańsk, Poland.</li>
+  <li>🧠 Currently learning Next.js.</li>
+  <li>🎮 Outside of web development, I am exploring the [Godot](https://godotengine.org/) game engine and working on creating my first video game.</li>
+  <li>🎲 In my spare time I am most often found running Dungeons and Dragons campaigns.</li>
+</ul>
 
 <br> 
 
-Feel free to take a look at my [resume](https://github.com/daniel-mach/daniel-mach/blob/main/DANIEL-MACH_FRONTEND_CV.pdf) and get in touch if you would like to talk job opportunities or collaborate on a project. 
+<p>
+  Feel free to reach out if you would like to talk job opportunities or collaborate on a project! 
+</p>
 
 <br> 
 
