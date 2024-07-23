@@ -2,13 +2,12 @@ Hey,  I am Daniel and welcome to my GitHub! :wave:
 -------------------------------------------------------
 
 <p align="justify">
-  I am a <strong>Front-end Developer with 2 years of commercial experience building e-commerce platforms, primarily using React and TypeScript</strong>. After seven years in global technical recruitment, I have successfully pivoted my career and now genuinely enjoy my newfound path as a web developer. I am passionate about writing clean, efficient code and driven    to create accessible, user-friendly and visually engaging web applications that <strong>deliver value</strong>.
+  I am a <strong>Front-end Developer with 2 years of commercial experience building e-commerce platforms, primarily using React and TypeScript</strong>. After seven years in global technical recruitment, I have successfully pivoted my career and now genuinely enjoy my newfound path as a web developer. I am passionate about writing clean, efficient code and driven to create accessible, user-friendly and visually engaging web applications that <strong>deliver value</strong>.
 </p>
 
 <br> 
 
 <ul>
-  <li>👀 <strong>I am currently looking for a new full-time front-end position!</strong></li>
   <li>🌍 Based in Gdańsk, Poland.</li>
   <li>🧠 Currently learning <strong>Next.js</strong> while working on personal projects.</li>
   <li>🎮 Outside of web development, I am exploring the <strong>Godot</strong> game engine and working on creating my first video game.</li>
